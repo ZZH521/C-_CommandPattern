@@ -1,0 +1,5 @@
+G:\vs2010_project\Command模式\Command\Command2\bin\Debug\Command2.exe
+G:\vs2010_project\Command模式\Command\Command2\bin\Debug\Command2.pdb
+G:\vs2010_project\Command模式\Command\Command2\obj\x86\Debug\Command2.exe
+G:\vs2010_project\Command模式\Command\Command2\obj\x86\Debug\Command2.pdb
+G:\vs2010_project\Command模式\Command\Command2\obj\x86\Debug\Command2.csprojResolveAssemblyReference.cache

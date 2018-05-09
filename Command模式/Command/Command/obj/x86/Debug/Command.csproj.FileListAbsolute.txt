@@ -1,0 +1,4 @@
+G:\vs2010_project\Command模式\Command\Command\bin\Debug\Command.exe
+G:\vs2010_project\Command模式\Command\Command\bin\Debug\Command.pdb
+G:\vs2010_project\Command模式\Command\Command\obj\x86\Debug\Command.exe
+G:\vs2010_project\Command模式\Command\Command\obj\x86\Debug\Command.pdb

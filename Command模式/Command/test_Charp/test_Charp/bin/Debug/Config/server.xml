@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<server>
+  <ip>192.168.1.132</ip>
+  <db>OneCard</db>
+  <user>sa</user>
+  <passwd>123456</passwd>
+</server>
